@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial05</string>
+
+    <string-array name="ct">
+        <item>--Select--</item>
+        <item>Rajkot</item>
+        <item>Ahmedabad</item>
+        <item>Baroda</item>
+        <item>Surat</item>
+        <item>Jamnagar</item>
+    </string-array>
+</resources>
